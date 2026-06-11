@@ -370,7 +370,7 @@ with tab2:
             c1.metric("MSE",  f"{metrics['MSE']:.4f}")
             c2.metric("RMSE", f"${metrics['RMSE']:.2f}")
             c3.metric("MAE",  f"${metrics['MAE']:.2f}")
-            c4.metric("R²",   f"{metrics['R2']:.4f}")
+            c4.metric("R²",   f"{metrics['R²']:.4f}")
 
 
 # ══════════════════════════════════
