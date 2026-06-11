@@ -396,7 +396,7 @@ with tab3:
                               actual.flatten(),
                               pred.flatten(),
                               alpha=0.1, color='gray', label='Error Band')
-            ax_p.set_title(f'{mname} | {forecast_horizon}-Day Forecast  |  RMSE: ${res["metrics"]["RMSE"]:.2f}  |  R²: {res["metrics"]["R2"]:.4f}')
+            ax_p.set_title(f'{mname} | {forecast_horizon}-Day Forecast  |  RMSE: ${res["metrics"]["RMSE"]:.2f}  |  R²: {res["metrics"]["R²"]:.4f}')
             ax_p.set_xlabel('Test Trading Days')
             ax_p.set_ylabel('TSLA Price (USD)')
             ax_p.legend()
