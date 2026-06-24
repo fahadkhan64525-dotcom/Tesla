@@ -56,7 +56,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── Header ────────────────────────────────────────────────────
-st.markdown('<div class="main-header">🚗 Tesla (TSLA) Stock Price Predictor</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-header">🚗 Tesla (TSLA) Stock Price Predictor...Fahad</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">Deep Learning with SimpleRNN & LSTM | Financial Services</div>', unsafe_allow_html=True)
 st.markdown("---")
 
