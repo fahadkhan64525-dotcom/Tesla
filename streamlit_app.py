@@ -22,7 +22,7 @@ from tensorflow.keras.optimizers import Adam
 
 # ── Page config ───────────────────────────────────────────────
 st.set_page_config(
-    page_title="TSLA Stock Price Predictor",
+    page_title="TSLA Stock Price Predictor fahad",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
